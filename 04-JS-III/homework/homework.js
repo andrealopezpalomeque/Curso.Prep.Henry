@@ -252,7 +252,7 @@ function breakStatement(numero) {
     }
     
   }
-  if (i < 10){ //si i es menor que 10 es porque la iteracion se detuvo por el break
+  if (i < 10){ //---> si i es menor que 10 es porque la iteracion se detuvo por el break
     return "Se interrumpió la ejecución";
   }
   else {
