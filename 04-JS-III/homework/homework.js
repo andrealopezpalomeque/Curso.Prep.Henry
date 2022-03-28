@@ -281,8 +281,9 @@ function continueStatement(numero) {
   }
 return array;
 }
-//console.log (continueStatement(2)) //[4, 6, 8, 10, 12, 14, 16, 18, 20] --> devuelve un array con 9 elementos no con 10. 
-                                                                        // no salteas la suma sino lo que haces tener un elemento menos
+//console.log (continueStatement(2)) //[4, 6, 8, 10, 12, 14, 16, 18, 20] 
+// --> devuelve un array con 9 elementos no con 10. 
+// no salteas la suma sino lo que haces tener un elemento menos
 
 
 // No modificar nada debajo de esta línea
